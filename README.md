@@ -7,13 +7,20 @@ software engineer
 Building scalable software and exploring artificial intelligence
 
 <p align="center">
-<a href="https://linkedin.com/in/helsaputri"><img src="https://skillicons.dev/icons?i=linkedin"/></a>
-<a href="https://instagram.com/helsa___putri"><img src="https://cdn.simpleicons.org/instagram"/></a>
-<a href="mailto:helsasp@gmail.com"><img src="https://skillicons.dev/icons?i=gmail"/></a>
+  <a href="https://linkedin.com/in/helsaputri">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="42"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://instagram.com/helsa___putri">
+    <img src="https://cdn.simpleicons.org/instagram/E4405F" height="42"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="mailto:helsasp@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" height="42"/>
+  </a>
 </p>
 
 </div>
-
 ---
 
 ## about
@@ -94,12 +101,6 @@ Developed a computer vision system to detect floating marine litter using YOLOv5
 
 ---
 
-## most used languages
-
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=helsasp&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12"/>
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=helsasp&layout=compact&theme=tokyonight&hide_border=true&border_radius=12"/>
-</p>
 
 ## contribution graph
 
