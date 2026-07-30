@@ -1,14 +1,16 @@
 <div align="center">
 
-# Helsa Sriprameswari Putri
+# Helsa Putri
 
-software engineer • full-stack developer • matcha lover
+software engineer
 
-Building scalable software, exploring artificial intelligence, and occasionally turning matcha into code 🍵👩‍💻.
+Building scalable software and exploring artificial intelligence
 
-[LinkedIn](https://linkedin.com/in/helsaputri) •
-[Instagram](https://instagram.com/helsa___putri) •
-[Gmail](mailto:helsasp@gmail.com)
+<p align="center">
+<a href="https://linkedin.com/in/helsaputri"><img src="https://skillicons.dev/icons?i=linkedin"/></a>
+<a href="https://instagram.com/helsa___putri"><img src="https://cdn.simpleicons.org/instagram"/></a>
+<a href="mailto:helsasp@gmail.com"><img src="https://skillicons.dev/icons?i=gmail"/></a>
+</p>
 
 </div>
 
@@ -89,25 +91,15 @@ Built a full-stack cafe management system with menu and staff management, comple
 Developed a computer vision system to detect floating marine litter using YOLOv5, supporting automated environmental monitoring.
 
 **Tech:** Python • YOLOv5 • OpenCV • Deep Learning
----
-
-## github
-
-<p align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=helsasp&show_icons=true&theme=transparent&hide_border=true"/>
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=helsasp&layout=compact&theme=transparent&hide_border=true"/>
-
-</p>
-
-<p align="center">
-
-<img width="70%" src="https://streak-stats.demolab.com?user=helsasp&theme=transparent&hide_border=true"/>
-
-</p>
 
 ---
+
+## most used languages
+
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=helsasp&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12"/>
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=helsasp&layout=compact&theme=tokyonight&hide_border=true&border_radius=12"/>
+</p>
 
 ## contribution graph
 
