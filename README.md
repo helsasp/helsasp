@@ -21,9 +21,9 @@
 
 ## about
 
-🎓 Education: Informatics @ ITS
-💼 Experience: Former Software Developer Intern @ Telkom Indonesia
-🔍 Focus: Software Engineering • Machine Learning • LLM
+🎓 Education: Informatics @ ITS<br>
+💼 Experience: Former Software Developer Intern @ Telkom Indonesia<br>
+🔍 Focus: Software Engineering • Machine Learning • LLM<br>
 📍 Location: Surabaya, Indonesia
 
 ---
