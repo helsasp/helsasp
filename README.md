@@ -21,7 +21,7 @@ Software Engineer
 ## about
 
 ```txt
-education   informatics undergraduate @ ITS Surabaya
+education   informatics @ ITS 
 experience  former software developer intern @ Telkom Indonesia
 focus       software engineering • machine learning • llm
 location    surabaya, indonesia
@@ -55,7 +55,6 @@ location    surabaya, indonesia
 
 - building software that solves real problems
 - exploring large language models and prompt engineering
-- learning more about distributed systems and scalable backend architecture
 
 ---
 
