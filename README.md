@@ -2,7 +2,8 @@
 
 # Helsa Sriprameswari Putri
 
-Software Engineer
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=F5A3C7&center=true&vCenter=true&width=700&lines=Software+Engineer)](https://git.io/typing-svg)
+
 
 <a href="https://linkedin.com/in/helsaputri">
 <img src="https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
