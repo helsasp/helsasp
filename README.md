@@ -1,26 +1,21 @@
 <div align="center">
 
-# Helsa Putri
+# Helsa Sriprameswari Putri
 
-software engineer
+Software Engineer
 
-Building scalable software and exploring artificial intelligence
-
-<p align="center">
-  <a href="https://linkedin.com/in/helsaputri">
-    <img src="https://skillicons.dev/icons?i=linkedin" height="42"/>
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://instagram.com/helsa___putri">
-    <img src="https://cdn.simpleicons.org/instagram/E4405F" height="42"/>
-  </a>
-  &nbsp;&nbsp;
-  <a href="mailto:helsasp@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" height="42"/>
-  </a>
-</p>
+<a href="https://linkedin.com/in/helsaputri">
+<img src="https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="mailto:helsasp@gmail.com">
+<img src="https://img.shields.io/badge/gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+<a href="https://instagram.com/helsa___putri">
+<img src="https://img.shields.io/badge/instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
 
 </div>
+
 ---
 
 ## about
