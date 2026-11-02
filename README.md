@@ -43,7 +43,7 @@
 | Position | Company | Duration | Tech Stack |
 |---|---|---|---|
 | **🟢 Software Engineer** | CIMB Niaga | Oct 2026 — Present | - |
-| **Software Engineer Intern** | PT Telkom Indonesia | Jun 2025 — Sep 2025 | PHP · Python · Laravel · Tailwind CSS · PostgreSQL |
+| **Software Engineer Intern** | Telkom Indonesia | Jun 2025 — Sep 2025 | PHP · Python · Laravel · Tailwind CSS · PostgreSQL |
 | **Software Engineering Researcher** | Institut Teknologi Sepuluh Nopember | Jan 2026 — Jul 2026 | Python · OpenAI  · Prompt Engineering · Domain-Driven Design |
 | **Teaching Assistant** | Institut Teknologi Sepuluh Nopember | 2024 — 2025 | Framework Programming · Operating Systems · Probability & Statistics · Discrete Mathematics |
 
